@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LevelCapExtender", "LevelCapExtender.csproj", "{F7378ACD-08C1-4A7D-9AFB-464DCD25768B}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "LevelCapExtenderInstaller", "..\LevelCapExtenderInstaller\LevelCapExtenderInstaller.vdproj", "{6901FD5E-858D-4330-86EF-BABAFEFB6B98}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F7378ACD-08C1-4A7D-9AFB-464DCD25768B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7378ACD-08C1-4A7D-9AFB-464DCD25768B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7378ACD-08C1-4A7D-9AFB-464DCD25768B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7378ACD-08C1-4A7D-9AFB-464DCD25768B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6901FD5E-858D-4330-86EF-BABAFEFB6B98}.Debug|Any CPU.ActiveCfg = Debug
+		{6901FD5E-858D-4330-86EF-BABAFEFB6B98}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {432300C7-E824-46B1-B89F-09D61D734CAC}
+	EndGlobalSection
+EndGlobal

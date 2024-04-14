@@ -1,0 +1,25 @@
+key "Level1","300"
+
+key "Level2","700"
+
+key "Level3","2000"
+
+key "Level4","8000"
+
+key "Level5","14000"
+
+key "Level6","20000"
+
+key "Level7","30000"
+
+key "Level8","34000"
+
+key "Level9","52000"
+
+key "Level10","62000"
+
+key "Level11","120000"
+
+key "Level12","157000"
+
+key "MaxXPLevel","12"
