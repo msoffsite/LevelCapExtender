@@ -27,16 +27,6 @@ namespace LevelCapExtender
             eclecticXAtYouTubeChannelLinkLabel.LinkClicked += new LinkLabelLinkClickedEventHandler(eclecticXAtYouTubeChannelLinkLabel_LinkClicked);
         }
 
-        private void TextBoxAboutExtender_TextChanged(object sender, EventArgs e)
-        {
-
-        }
-
-        private void GameInstallationFolderExample_Click(object sender, EventArgs e)
-        {
-
-        }
-
         private async void SelectGameInstallationFolderButton_Click(object sender, EventArgs e)
         {
             ChooseLevelCapExtenderPanel.Visible = false;

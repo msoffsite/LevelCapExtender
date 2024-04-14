@@ -62,7 +62,6 @@
             TextBoxAboutExtender.Size = new Size(776, 296);
             TextBoxAboutExtender.TabIndex = 2;
             TextBoxAboutExtender.Text = resources.GetString("TextBoxAboutExtender.Text");
-            TextBoxAboutExtender.TextChanged += TextBoxAboutExtender_TextChanged;
             // 
             // AboutLabel
             // 
@@ -82,7 +81,6 @@
             GameInstallationFolderExample.Size = new Size(480, 15);
             GameInstallationFolderExample.TabIndex = 5;
             GameInstallationFolderExample.Text = "Example: C:\\Program Files (x86)\\Steam\\steamapps\\common\\Baldurs Gate 3\\bin\\bg3.exe.";
-            GameInstallationFolderExample.Click += GameInstallationFolderExample_Click;
             // 
             // openGameLocation
             // 
