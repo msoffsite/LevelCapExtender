@@ -152,39 +152,35 @@ namespace LevelCapExtender
             }
         }
 
-        private async void LevelCapExtender2xButton_Click(object sender, EventArgs e)
+        private async Task UpdateLevelCap(string newLevelCap)
         {
-            string newLevelCap = "2x";
             await CopyXpFiles(newLevelCap);
             await ShowMessageBox($"{_gameName} now using {newLevelCap} level cap extender.");
+        }
+
+        private async void LevelCapExtender2xButton_Click(object sender, EventArgs e)
+        {
+            await UpdateLevelCap("2x");
         }
 
         private async void LevelCapExtender3xButton_Click(object sender, EventArgs e)
         {
-            string newLevelCap = "3x";
-            await CopyXpFiles(newLevelCap);
-            await ShowMessageBox($"{_gameName} now using {newLevelCap} level cap extender."); ;
+            await UpdateLevelCap("3x");
         }
 
         private async void LevelCapExtender4xButton_Click(object sender, EventArgs e)
         {
-            string newLevelCap = "4x";
-            await CopyXpFiles(newLevelCap);
-            await ShowMessageBox($"{_gameName} now using {newLevelCap} level cap extender.");
+            await UpdateLevelCap("4x");
         }
 
         private async void LevelCapExtender5xButton_Click(object sender, EventArgs e)
         {
-            string newLevelCap = "5x";
-            await CopyXpFiles(newLevelCap);
-            await ShowMessageBox($"{_gameName} now using {newLevelCap} level cap extender.");
+            await UpdateLevelCap("5x");
         }
 
         private async void LevelCapExtender6xButton_Click(object sender, EventArgs e)
         {
-            string newLevelCap = "6x";
-            await CopyXpFiles(newLevelCap);
-            await ShowMessageBox($"{_gameName} now using {newLevelCap} level cap extender.");
+            await UpdateLevelCap("6x");
         }
 
         private async void LevelCapExtenderUninstallButton_Click(object sender, EventArgs e)
