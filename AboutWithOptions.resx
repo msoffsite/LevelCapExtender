@@ -159,7 +159,7 @@ As for installing, that's easy. Download and extract the zip. Run LevelCapExtend
 
 As for uninstalling XP changes, simply choose Uninstall from the Level Extender options and the app will revert BG 3 to the vanilla experience table.
 
-If you wish to upgrade XP tables to a higher level cap, run Level Cap Extender and choose a higher XP requirement. I wouldn't recommend that past Level 3, however. If you're far into the game, changing XP tables might muck with the levels of your characters.
+If you wish to upgrade XP tables to a higher level cap, run Level Cap Extender and choose a higher XP requirement. Note that if you're far into the game, changing XP tables might muck up your characters. This is especially true with Minsc, who may in fact be impervious to the level changes. He was able to reach Level 12 long before others.
 
 If you wish to uninstall Level Cap Extender from Windows, go to Add or Remove Programs.</value>
   </data>
