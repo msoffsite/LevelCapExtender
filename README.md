@@ -34,7 +34,7 @@ My most recent playthrough includes the following mods using Patch 6 with the la
 - Party Limit Begone
 - Show Approval Ratings
 
-Visit playbaldursgate3.com to see experience tables.
+Visit the mod page at [Level Cap Extender](https://playbaldursgate3.com/Mods/Level-Cap-Extender) to see experience tables.
 
 As for installing, that's easy. Download and extract the zip. Run LevelCapExtenderInstaller.msi to install. Run the program, select your game file, and choose which Level Extender you want to run. That's it. No files to find, copy and no directories to find and paste into.
 
