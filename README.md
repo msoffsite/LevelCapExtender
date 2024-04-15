@@ -3,11 +3,11 @@ Baldur's Gate 3 has 12 levels, each of which has a required number of experience
 
 Level Cap Extender addresses that deficiency by providing 5 options:
 
-> Doubled (200K MAX XP)
-> Tripled (300K MAX XP)
-> Quadrupled (400K MAX XP)
-> Quintupled (500K MAX XP)
-> Sextupled (600K MAX XP)
+- Doubled (200K MAX XP)
+- Tripled (300K MAX XP)
+- Quadrupled (400K MAX XP)
+- Quintupled (500K MAX XP)
+- Sextupled (600K MAX XP)
 
 Doubled is for diving somewhat deeper than on a casual playthrough, hitting the level-cap sometime before reaching halfway in Act 3. Sextupled would be for your anal-retentive completionist who must finish every quest and take on every possible enemy. Yours truly, for instance. You won't hit the level cap until very late in the game, if ever.
 
@@ -21,18 +21,18 @@ Note also that Level Cap Extender will work with any version of Baldur's Gate 3,
 
 My most recent playthrough includes the following mods using Patch 6 with the latest hot fix and runs without issue:
 
-> Tactician Plus
-> Highlight Everything Revised
-> No More Dirt and Blood
-> Bags, Bags, Bags
-> Better Containers
-> Enemies Enhanced
-> Aether's Immersive UI
-> Improved UI
-> Native Mod Loader
-> Native Camera Tweaks
-> Party Limit Begone
-> Show Approval Ratings
+- Tactician Plus
+- Highlight Everything Revised
+- No More Dirt and Blood
+- Bags, Bags, Bags
+- Better Containers
+- Enemies Enhanced
+- Aether's Immersive UI
+- Improved UI
+- Native Mod Loader
+- Native Camera Tweaks
+- Party Limit Begone
+- Show Approval Ratings
 
 Visit playbaldursgate3.com to see experience tables.
 
