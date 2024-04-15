@@ -6,6 +6,16 @@
     <Nullable>enable</Nullable>
     <UseWindowsForms>true</UseWindowsForms>
     <ImplicitUsings>enable</ImplicitUsings>
+    <ApplicationIcon>favicon.ico</ApplicationIcon>
+    <Title>Baldur's Gate 3 Level Cap Extender</Title>
+    <Description>Baldur's Gate 3 has 12 levels, each of which has a required number of experience points to reach. The maximum level cap is 12. Level 12 requires a total of 100,000 experience points. This is a very low number considering the vast amounts of XP available in the game, especially in Acts 2 &amp; 3. This means party stagnation for the majority of players, which is fine if you're fine with it. If you're not, however, level-capping can be frustrating and kill sense of purpose. Level Cap Extender addresses that deficiency by providing 5 options</Description>
+    <Copyright>Eclectic X, All Rights Reserved</Copyright>
+    <PackageProjectUrl>https://playbaldursgate3.com/mods/level-cap-extender</PackageProjectUrl>
+    <PackageIcon>android-chrome-128x128.png</PackageIcon>
+    <PackageReadmeFile>README.md</PackageReadmeFile>
+    <RepositoryUrl>https://github.com/msoffsite/LevelCapExtender/</RepositoryUrl>
+    <RepositoryType>git</RepositoryType>
+    <PackageTags>baldur's gate 3; mod; utility</PackageTags>
   </PropertyGroup>
 
   <ItemGroup>
@@ -24,7 +34,18 @@
   </ItemGroup>
 
   <ItemGroup>
+    <Content Include="favicon.ico" />
+  </ItemGroup>
+
+  <ItemGroup>
     <Folder Include="LevelCaps\6x\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="..\..\favicon_io\android-chrome-128x128.png">
+      <Pack>True</Pack>
+      <PackagePath>\</PackagePath>
+    </None>
   </ItemGroup>
 
   <ItemGroup>
@@ -78,6 +99,10 @@
     </None>
     <None Update="LevelCaps\6x\XPData.txt">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="README.md">
+      <Pack>True</Pack>
+      <PackagePath>\</PackagePath>
     </None>
   </ItemGroup>
 

@@ -10,6 +10,7 @@ namespace LevelCapExtender
         private const string _dataFolder = "Data";
         private string _modLocation = @"\Public\SharedDev\Stats\Generated\Data\";
         private string _levelCapExtenderDirectory = string.Empty;
+        
         public AboutForm()
         {
             InitializeComponent();
@@ -59,13 +60,6 @@ namespace LevelCapExtender
                     }
 
                     List<string> files = new();
-
-                    await Task.Run(() =>
-                    {
-                        files = Directory.GetFiles(_modLocation, "*.txt-bak").ToList();
-                    });
-
-                    LevelCapExtenderUninstallButton.Enabled = files.Any();
 
                     await Task.Run(() =>
                     {

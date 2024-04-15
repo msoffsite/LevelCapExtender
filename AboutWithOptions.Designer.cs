@@ -124,7 +124,7 @@
             LevelCapExtenderUninstallButton.Name = "LevelCapExtenderUninstallButton";
             LevelCapExtenderUninstallButton.Size = new Size(75, 37);
             LevelCapExtenderUninstallButton.TabIndex = 6;
-            LevelCapExtenderUninstallButton.Text = "Uninstall";
+            LevelCapExtenderUninstallButton.Text = "Reset";
             LevelCapExtenderUninstallButton.UseVisualStyleBackColor = true;
             LevelCapExtenderUninstallButton.Click += LevelCapExtenderUninstallButton_Click;
             // 
