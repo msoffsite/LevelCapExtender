@@ -71,8 +71,8 @@ namespace LevelCapExtender
                         MessageBox.Show("Existing files for XP have been detected. " +
                             "Changes are recommended for new playthroughs only. " +
                             "In-game changes to XP files can have adverse level effects. " +
-                            "You should be fine if you aren't past level 3 and wish to increase " +
-                            "the level cap. Otherwise, proceed with caution. This is ESPECIALLY true " +
+                            "You should be fine if you are increasing the level cap or haven't gone " +
+                            "past level 4. Otherwise, proceed with caution. This is ESPECIALLY true " +
                             "if you intend to decrease the level cap.");
                     }
 

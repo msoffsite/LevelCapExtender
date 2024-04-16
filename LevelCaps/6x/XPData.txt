@@ -4,11 +4,11 @@ key "Level2","700"
 
 key "Level3","2000"
 
-key "Level4","10000"
+key "Level4","6000"
 
-key "Level5","16000"
+key "Level5","18000"
 
-key "Level6","22000"
+key "Level6","24000"
 
 key "Level7","32000"
 
