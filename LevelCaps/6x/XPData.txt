@@ -8,18 +8,18 @@ key "Level4","6000"
 
 key "Level5","18000"
 
-key "Level6","24000"
+key "Level6","26000"
 
-key "Level7","32000"
+key "Level7","38000"
 
-key "Level8","36000"
+key "Level8","50000"
 
-key "Level9","54000"
+key "Level9","65000"
 
-key "Level10","64000"
+key "Level10","77000"
 
 key "Level11","140000"
 
-key "Level12","223000"
+key "Level12","177000"
 
 key "MaxXPLevel","12"
