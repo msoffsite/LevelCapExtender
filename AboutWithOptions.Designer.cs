@@ -278,7 +278,7 @@
             MaximizeBox = false;
             MinimizeBox = false;
             Name = "AboutForm";
-            Text = "Level Cap Extender v1.4";
+            Text = "Level Cap Extender v1.5";
             ChooseLevelCapExtenderPanel.ResumeLayout(false);
             ChooseLevelCapExtenderPanel.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)pictureBox1).EndInit();
